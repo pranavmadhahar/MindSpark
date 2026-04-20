@@ -10,6 +10,7 @@ It combines poetry, motivational quotes, affirmations, and reflection prompts in
 - **Motivational Quote** → one-liner inspiration
 - **Affirmation** → positive “I am / I can” statement
 - **Reflection Prompt** → journaling/self-reflection question
+- **SequentialChain Architecture** → orchestrates multiple `LLMChain`s in order, passing the theme through each stage
 - **Interactive UI** → optional ipywidgets chat interface for a bot-like experience
 
 ---
