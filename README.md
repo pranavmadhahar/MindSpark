@@ -26,7 +26,7 @@ It combines poetry, motivational quotes, affirmations, and reflection prompts in
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/MindSpark.git
+   git clone https://github.com/pranavmadhahar/MindSpark.git
    cd MindSpark
    ```
 
